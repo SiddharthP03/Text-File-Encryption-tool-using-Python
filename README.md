@@ -20,3 +20,12 @@ It supports:
 It is not designed for production-level security, but is great for learning how data transforms during encryption and decryption.
 
 ---
+
+**Note:** 
+The `example/` folder includes:
+- `sample.txt`: the original plain text file  
+- `sample_encrypted.enc`: the encrypted output  
+- `sample_decrypted.txt`: the fully restored file  
+
+These files help demonstrate how encryption and decryption work from start to finish.
+
